@@ -12,11 +12,10 @@
 3. [Features](#features)
 4. [Technologies Used](#technologies-used)
 5. [Getting Started](#getting-started)
-6. [Usage](#usage)
-7. [Contributing](#contributing)
-8. [Challenges Faced and Resolutions](#challenges-faced-and-resolutions)
-9. [License](#license)
-10. [Website UI Explanation](#website-ui-explanation)
+6. [Contributing](#contributing)
+7. [Challenges Faced and Resolutions](#challenges-faced-and-resolutions)
+8. [License](#license)
+9. [Website UI Explanation](#website-ui-explanation)
 ---
 
 ## Introduction:
